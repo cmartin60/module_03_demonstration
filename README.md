@@ -6,6 +6,13 @@ Introduction to Python: Control Structure
 ## Author
 Christian Jorge R. Martin
 
+
+## Information
+- Created Iteration scripts
+- Created Logic scripts
+- Created Modules IO
+
+
 ## Information
 ### Sequential
 Simply means that statements in a program are executed one after another, in the order they appear.
